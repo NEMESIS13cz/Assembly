@@ -1,6 +1,6 @@
 #/bin/bash
 
-# Just a little script I made to make creating assemlby runnables easier
+# Just a little script I made to make creating assembly runnables easier
 
 cp "$1.asm" "done/$1.asm"
 cd "done"
