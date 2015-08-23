@@ -1,4 +1,4 @@
-# Assembly
+# Assembly thingy much wow repository
 
 Feel free to download/edit/use all of this code, I only made it with the intention to learn assembly so feel free to do the same!
 
