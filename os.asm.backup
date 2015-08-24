@@ -15,10 +15,7 @@ _start:
 	mov ds, rax		; our application
 
 	call run_stuff
-	jmp .spinloop
-	
-	.spinloop:
-	jmp .spinloop
+	jmp $
 
 ;------------------------------------------------------------------------------------------------------
 
