@@ -28,7 +28,6 @@ _start:
 
 	jne .loop		; repeat loop until equal
 	
-	mov rcx, rax		; move our number from EAX into ECX
 	call conv	
 	
 	mov rdx, rcx		; length of our string
